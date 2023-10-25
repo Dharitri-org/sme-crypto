@@ -3,6 +3,7 @@ module github.com/Dharitri-org/sme-crypto
 go 1.19
 
 require (
+	filippo.io/edwards25519 v1.0.0
 	github.com/Dharitri-org/sme-core v0.1.1
 	github.com/Dharitri-org/sme-logger v0.0.4
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1
