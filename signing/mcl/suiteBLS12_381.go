@@ -4,9 +4,10 @@ import (
 	"crypto/cipher"
 	"fmt"
 	"sync"
-    "github.com/Dharitri-org/sme-logger"    
+
 	"github.com/Dharitri-org/sme-core/core/check"
 	crypto "github.com/Dharitri-org/sme-crypto"
+	logger "github.com/Dharitri-org/sme-logger"
 	"github.com/herumi/bls-go-binary/bls"
 )
 
