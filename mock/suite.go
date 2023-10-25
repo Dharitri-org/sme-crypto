@@ -3,7 +3,7 @@ package mock
 import (
 	"crypto/cipher"
 
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 )
 
 // SuiteMock -

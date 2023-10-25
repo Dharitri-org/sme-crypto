@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/Dharitri-org/sme-core/core/check"
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 	"github.com/Dharitri-org/sme-crypto/mock"
 	"github.com/herumi/bls-go-binary/bls"
 	"github.com/stretchr/testify/assert"

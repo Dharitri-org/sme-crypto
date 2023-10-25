@@ -3,7 +3,7 @@ package disabled
 import (
 	"crypto/cipher"
 
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 )
 
 // Disabled is the string for a disabled suite

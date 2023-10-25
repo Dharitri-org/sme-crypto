@@ -1,7 +1,7 @@
 package mock
 
 import (
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 )
 
 // PointMock represents a mock implementation for a Point

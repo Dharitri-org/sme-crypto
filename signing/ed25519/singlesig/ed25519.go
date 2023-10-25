@@ -4,7 +4,7 @@ import (
 	"crypto/ed25519"
 
 	"github.com/Dharitri-org/sme-core/core/check"
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 )
 
 // Ed25519Signer exposes the signing and verification functionalities from the ed25519 signature scheme

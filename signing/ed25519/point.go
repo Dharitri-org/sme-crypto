@@ -5,7 +5,7 @@ import (
 	"crypto/ed25519"
 
 	"github.com/Dharitri-org/sme-core/core/check"
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 )
 
 var _ crypto.Point = (*ed25519Point)(nil)
