@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/Dharitri-org/sme-core/core/check"
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 	"github.com/Dharitri-org/sme-crypto/signing/ed25519"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

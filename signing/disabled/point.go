@@ -1,6 +1,6 @@
 package disabled
 
-import crypto "github.com/Dharitri-org/sme-crypto"
+import "github.com/Dharitri-org/sme-crypto"
 
 const marshaledPoint = "point"
 

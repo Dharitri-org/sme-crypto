@@ -1,7 +1,7 @@
 package mock
 
 import (
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 )
 
 // ScalarMock represents a mock implementation of a Scalar

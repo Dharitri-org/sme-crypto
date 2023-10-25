@@ -3,7 +3,7 @@ package mcl
 import (
 	"testing"
 
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 	"github.com/Dharitri-org/sme-crypto/mock"
 	"github.com/stretchr/testify/require"
 )

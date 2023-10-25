@@ -3,7 +3,7 @@ package ed25519_test
 import (
 	"testing"
 
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 	"github.com/Dharitri-org/sme-crypto/mock"
 	"github.com/Dharitri-org/sme-crypto/signing/ed25519"
 	"github.com/stretchr/testify/assert"

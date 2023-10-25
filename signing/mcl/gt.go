@@ -1,7 +1,7 @@
 package mcl
 
 import (
-	crypto "github.com/Dharitri-org/sme-crypto"
+	"github.com/Dharitri-org/sme-crypto"
 	"github.com/herumi/bls-go-binary/bls"
 )
 
