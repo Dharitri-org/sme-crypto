@@ -1,6 +1,8 @@
 package mock
 
-import crypto "github.com/Dharitri-org/sme-crypto"
+import (
+	crypto "github.com/Dharitri-org/sme-crypto"
+)
 
 // PointMock represents a mock implementation for a Point
 type PointMock struct {

@@ -1,6 +1,8 @@
 package mock
 
-import crypto "github.com/Dharitri-org/sme-crypto"
+import (
+	crypto "github.com/Dharitri-org/sme-crypto"
+)
 
 // PrivateKeyStub provides stubs for a PrivateKey implementation
 type PrivateKeyStub struct {

@@ -4,8 +4,8 @@ import (
 	"crypto/cipher"
 	"crypto/ed25519"
 
-           "github.com/Dharitri-org/sme-logger"	
 	crypto "github.com/Dharitri-org/sme-crypto"
+	logger "github.com/Dharitri-org/sme-logger"
 )
 
 var log = logger.GetOrCreate("crypto/signing/ed25519")

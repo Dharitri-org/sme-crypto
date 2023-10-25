@@ -1,6 +1,8 @@
 package multisig
 
-import crypto "github.com/Dharitri-org/sme-crypto"
+import (
+	crypto "github.com/Dharitri-org/sme-crypto"
+)
 
 func convertStringsToPubKeys(pubKeys []string, kg crypto.KeyGenerator) ([]crypto.PublicKey, error) {
 	// convert pubKeys
